@@ -8,7 +8,7 @@ var About = (props) => {
 			<p>Welcome to the about page. This is an example app built while following a Udemy course.</p>
 			<ol>
 				<li>
-					<Link to="https://github.com/KenRoss/ReactWeather">GitHub page</Link>
+					<a href="https://github.com/KenRoss/ReactWeather">GitHub page</a>
 				</li>
 			</ol>
 		</div>
